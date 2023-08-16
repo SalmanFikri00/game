@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#yoimiya {
+    width: 20%;
+    position: relative;
+    top: 30px;
+    /* transition: all 0.3s ease-out; */
+    /* transform: translateX(50px)  */
+}
+
+.tanah{
+    background-image: url('./oak_woods_v1.0/tanah/tanah.png');
+    background-size: 170px 80px;
+    /* background-color: blue; */
+    height: 10vh;
+    width: 93vw;
+    position: relative;
+    transform: translateY(-10px)
+}
